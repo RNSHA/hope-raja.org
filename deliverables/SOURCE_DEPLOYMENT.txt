@@ -1,0 +1,21 @@
+HOPE WEBSITE — COMPLETE SOURCE PACKAGE
+
+This package contains the editable TypeScript, React and CSS source for the HOPE website.
+
+Technology
+- React 19
+- vinext / Vite
+- Cloudflare Workers-compatible production build
+
+Local commands
+- npm install
+- npm run dev
+- npm run build
+- npm run start
+
+The public images are located in public/.
+The main page content is in app/page.tsx.
+The design system and responsive styles are in app/globals.css.
+
+For a conventional shared-hosting account, use the separate ready-to-upload static package instead of this source package.
+
