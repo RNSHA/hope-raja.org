@@ -68,7 +68,7 @@ const content = {
       "Evidence, learning and replication across Iraq",
     ],
     localLabel: "Local level",
-    localPlaces: ["Anbar", "Kirkuk", "Salah al-Din", "Ninewa"],
+    localPlaces: ["Anbar", "Kirkuk", "Salah al-Din", "Ninewa", "Dohuk"],
     localText:
       "Translate national direction into conflict-sensitive, community-owned support tailored to each governorate.",
     localItems: [
@@ -161,7 +161,7 @@ const content = {
       "إنتاج الأدلة والتعلم وتوسيع النموذج في العراق",
     ],
     localLabel: "المستوى المحلي",
-    localPlaces: ["الأنبار", "كركوك", "صلاح الدين", "نينوى"],
+    localPlaces: [ "الأنبار", "كركوك", "صلاح الدين", "نينوى", "دهوك"],
     localText:
       "تحويل التوجه الوطني إلى دعم محلي يراعي النزاع ويقوده المجتمع وفق خصوصية كل محافظة.",
     localItems: [
