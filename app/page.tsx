@@ -97,7 +97,7 @@ const content = {
     hq: "Headquarters",
     hqValue: "Al Noor, Mosul, Ninewa",
     office: "Sub-office",
-    officeValue: "Tikrit, Salah al-Din, Dohuk",
+    officeValue: "Tikrit, Salah al-Din, Kirkuk, Dohuk",
     rights: "© 2026 HOPE. Private website review version.",
   },
   ar: {
@@ -190,7 +190,7 @@ const content = {
     hq: "المقر الرئيسي",
     hqValue: "حي النور، الموصل، نينوى",
     office: "المكتب الفرعي",
-    officeValue: "تكريت، صلاح الدين، دهوك",
+    officeValue: "تكريت، صلاح الدين، كركوك، دهوك",
     rights: "© 2026 HOPE. نسخة موقع خاصة للمراجعة.",
   },
 };
