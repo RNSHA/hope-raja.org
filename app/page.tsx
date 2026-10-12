@@ -56,7 +56,7 @@ const content = {
     reintegrationKicker: "Strategic programming area",
     reintegrationTitle: "Reintegration and stabilization—connected from national systems to local recovery.",
     reintegrationText:
-      "HOPE’s proposed model links national capacity development in Baghdad with locally led implementation in Anbar, Kirkuk, Salah al-Din and Ninewa. This creates one coherent pathway for institutions, communities, returnees and vulnerable host populations.",
+      "HOPE’s proposed model links national capacity development in Baghdad with locally led implementation in Anbar, Kirkuk, Salah al-Din, Dohuk, and Ninewa. This creates one coherent pathway for institutions, communities, returnees and vulnerable host populations.",
     nationalLabel: "National level",
     nationalPlace: "Baghdad",
     nationalText:
@@ -149,7 +149,7 @@ const content = {
     reintegrationKicker: "مجال برامجي استراتيجي",
     reintegrationTitle: "إعادة الإدماج والاستقرار—من الأنظمة الوطنية إلى التعافي المحلي.",
     reintegrationText:
-      "يربط نموذج HOPE المقترح بناء القدرات الوطنية في بغداد بالتنفيذ المحلي في الأنبار وكركوك وصلاح الدين ونينوى، ليشكل مساراً واحداً متكاملاً يخدم المؤسسات والمجتمعات والعائدين والمجتمعات المضيفة الهشة.",
+      "يربط نموذج HOPE المقترح بناء القدرات الوطنية في بغداد بالتنفيذ المحلي في الأنبار وكركوك وصلاح الدين و دهوك ونينوى، ليشكل مساراً واحداً متكاملاً يخدم المؤسسات والمجتمعات والعائدين والمجتمعات المضيفة الهشة.",
     nationalLabel: "المستوى الوطني",
     nationalPlace: "بغداد",
     nationalText:
