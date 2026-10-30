@@ -385,7 +385,6 @@ export default function HomePage() {
             <div><dt>{t.hq}</dt><dd>{t.hqValue}</dd></div>
             <div><dt>{t.office}</dt><dd>{t.officeValue}</dd></div>
             <div><dt>Email</dt><dd><a href="mailto:grantfocalpoint@gmail.com">grantfocalpoint@gmail.com</a></dd></div>
-            <div><dt>Phone</dt><dd><a href="tel:+9647769266006">+964 776 926 6006</a></dd></div>
           </dl>
         </div>
       </section>
